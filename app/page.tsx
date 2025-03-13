@@ -19,7 +19,7 @@ export default function Home() {
               Stay tuned by following us on our social handles
             </p>
             <div className={styles.socialIcons}>
-              <a href="#" className={styles.socialIcon} aria-label="Facebook">
+              <a href="https://www.facebook.com/Thabhotech" className={styles.socialIcon} aria-label="Facebook">
                 <img
                   src="/icons/fb.svg"
                   alt="Facebook Logo"
